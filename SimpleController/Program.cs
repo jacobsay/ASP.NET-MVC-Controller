@@ -7,7 +7,7 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{Id?}");
 
 app.MapControllerRoute(
-    name: "default",
+    name: "info",
     pattern: "{controller=Home}/{action=Info}/{Id?}");
 
 app.Run();

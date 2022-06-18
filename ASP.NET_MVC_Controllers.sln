@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleController", "SimpleC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerContext", "ControllerContext\ControllerContext.csproj", "{5551E44F-BB7E-4E63-8CC9-4E152C3E9183}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryString", "QueryString\QueryString.csproj", "{F89E055F-95D8-4D36-AF24-F88E5B345D64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5551E44F-BB7E-4E63-8CC9-4E152C3E9183}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5551E44F-BB7E-4E63-8CC9-4E152C3E9183}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5551E44F-BB7E-4E63-8CC9-4E152C3E9183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89E055F-95D8-4D36-AF24-F88E5B345D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89E055F-95D8-4D36-AF24-F88E5B345D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89E055F-95D8-4D36-AF24-F88E5B345D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89E055F-95D8-4D36-AF24-F88E5B345D64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
