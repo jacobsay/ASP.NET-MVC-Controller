@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forms", "Forms\Forms.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomActionResult", "CustomActionResult\CustomActionResult.csproj", "{22B254C6-1739-4A8C-AFF8-F0DC7FFBFFD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentResult_JsonResult", "ContentResult_JsonResult\ContentResult_JsonResult.csproj", "{06007D50-E09E-4264-9FFB-FB63894066D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContentResult_JsonResult", "ContentResult_JsonResult\ContentResult_JsonResult.csproj", "{06007D50-E09E-4264-9FFB-FB63894066D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redirect", "Redirect\Redirect.csproj", "{463B423E-42A2-459C-962A-F3E6C78E80D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redirect", "Redirect\Redirect.csproj", "{463B423E-42A2-459C-962A-F3E6C78E80D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusCode", "StatusCode\StatusCode.csproj", "{07AA5553-870B-40C7-B4F7-D0DE7FC08C52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{463B423E-42A2-459C-962A-F3E6C78E80D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{463B423E-42A2-459C-962A-F3E6C78E80D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{463B423E-42A2-459C-962A-F3E6C78E80D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AA5553-870B-40C7-B4F7-D0DE7FC08C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AA5553-870B-40C7-B4F7-D0DE7FC08C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AA5553-870B-40C7-B4F7-D0DE7FC08C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AA5553-870B-40C7-B4F7-D0DE7FC08C52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
