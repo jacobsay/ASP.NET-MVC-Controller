@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContentResult_JsonResult", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redirect", "Redirect\Redirect.csproj", "{463B423E-42A2-459C-962A-F3E6C78E80D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusCode", "StatusCode\StatusCode.csproj", "{07AA5553-870B-40C7-B4F7-D0DE7FC08C52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatusCode", "StatusCode\StatusCode.csproj", "{07AA5553-870B-40C7-B4F7-D0DE7FC08C52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files", "Files\Files.csproj", "{D03D2D29-04AF-4EF3-A666-8DB9B154480D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files", "Files\Files.csproj", "{D03D2D29-04AF-4EF3-A666-8DB9B154480D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{AC0CE1F0-559D-4D44-86B3-0BF688852ABF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{D03D2D29-04AF-4EF3-A666-8DB9B154480D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D03D2D29-04AF-4EF3-A666-8DB9B154480D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D03D2D29-04AF-4EF3-A666-8DB9B154480D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC0CE1F0-559D-4D44-86B3-0BF688852ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0CE1F0-559D-4D44-86B3-0BF688852ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0CE1F0-559D-4D44-86B3-0BF688852ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0CE1F0-559D-4D44-86B3-0BF688852ABF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
